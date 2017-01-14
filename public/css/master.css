@@ -1,0 +1,68 @@
+*{
+  font-family: sans-serif;
+}
+body {
+  clear: both;
+  width: 80%;
+  /*height: 600px;*/
+  margin: 0 auto;
+}
+
+.bosa {
+  font-weight: 900;
+}
+
+.logo > h1 {
+  font-weight: lighter;
+  font-size: 40px;
+}
+
+li {
+  float: right;
+  list-style: none;
+}
+
+ a, a:hover, a:active, a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+
+article {
+  /*background-color: yellow;*/
+  display: block;
+  width: 50%;
+  float: left;
+}
+
+header {
+  height: 80px;
+}
+
+header {
+  border-bottom: 1px solid black;
+}
+
+section{
+  /*border: 1px solid black;*/
+}
+
+footer{
+  clear: both;
+  border-top: 1px solid black;
+}
+
+nav {
+  width: 50%;
+  float: left;
+}
+
+section, footer, header {
+}
+
+.copyright {
+  text-align: center;
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+}
